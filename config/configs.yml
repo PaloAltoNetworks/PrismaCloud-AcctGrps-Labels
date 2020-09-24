@@ -1,0 +1,11 @@
+prisma_cloud:
+  username:             #access key
+  password:             #secret key
+  customer_name:        #optional - only needed if accessing multiple tenants
+  api_base:             #ie api2.prismacloud.io
+  tagkeys:              #list tags/labels individually with a "-" (dash) below.
+  - labels/tags
+  - names
+  - go
+  - here
+  - individually
